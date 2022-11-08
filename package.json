@@ -1,12 +1,12 @@
 {
   "name": "hometask-project-set-up",
   "version": "1.0.0",
-  "description": "\"This is my first project\"",
-  "main": "\"index.js\"",
+  "description": "This is my first project",
+  "main": "index.js",
   "repository": "https://github.com/JekaterinaS/The-hometask-integration-testing.git",
-  "author": "\"jsolovjova\"",
-  "license": "\"MIT\"",
-  "private": false,
+  "author": "jsolovjova",
+  "license": "MIT",
+  "private": true,
   "devDependencies": {
     "jest": "^29.2.2",
     "@babel/preset-env": "^7.13.5",
