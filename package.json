@@ -1,0 +1,23 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "\"This is my first project\"",
+  "main": "\"index.js\"",
+  "repository": "https://github.com/JekaterinaS/The-hometask-integration-testing.git",
+  "author": "\"jsolovjova\"",
+  "license": "\"MIT\"",
+  "private": false,
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ]
+  },
+  "type": "module"
+}
