@@ -8,17 +8,14 @@ With this task bootcampers will go through the process of a project creation, se
 
 ---
 
-# Setup
+# Setup 
 
 - Run yarn install to install all dependencies.
-- Run yarn test to run your tests.
-- The console output will show you the result
-
 
 
 # Tests
 
-Run nmp install to install all dependencies. You can debug your solution using the comand "npm run debug". The console output will show you the result.
-
+- Run test jest to run tests.
+- The console output will show you the result.
 
 
